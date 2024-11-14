@@ -1,0 +1,23 @@
+https://www.udemy.com/course/python-game-development-with-pygame-zero/learn/lecture/21228494#overview
+Username - abhishek.bahl@gmail.com, Password - Lkkw2(&yA(#W5AA
+
+run the code in VSC - python version 3.9.6.64
+--------------------------------------------------------------------------
+
+Softwares to be downloaded along with links for download :
+
+Latest version of Python - https://www.python.org/
+Anaconda - https://docs.anaconda.com/anaconda/install/
+Visual Studio Code - https://code.visualstudio.com/download
+
+Steps to be followed to set up first project:
+1) Install extension ‘Python’ in Visual Studio Code (VSC) to run the code in
+VSC itself
+2) ‘pgzero’ module needs to be installed separately. 
+3) Please go to Command Prompt (on a Windows machine) or Terminal (on a Macbook) and type ‘pip install pygame’. Once pygame is installed please type ‘pip install pgzero’.
+4) Ensure Repl.it Username and Password access.
+5) Copy entire code after coding on VSC to a repl. Use template ‘pygame’ for the Repl. Use the link generated to keep track of the projects.
+
+In case VSC does not work on your learner’s machine, your learner can use Repl.it with the template ‘pygame’.
+
+
